@@ -1,0 +1,27 @@
+.header {
+    background-color: #15243E
+}
+
+.header-logo {
+    color: white;
+    width: auto;
+    height: 60px;
+    font-size: 55px;
+    font-family:"ＭＳ Ｐ明朝", "ヒラギノ明朝 Pro W3", serif;
+}
+
+p {
+    max-width: 65%;
+    letter-spacing : 3px;
+    text-align: justify;
+    font-size: 16px;
+    font-family:"ＭＳ Ｐ明朝", "ヒラギノ明朝 Pro W3", serif;
+
+  }
+
+.footer-logo {
+    width: auto;
+    height: 60px;
+    font-size: 55px;
+    font-family:"ＭＳ Ｐ明朝", "ヒラギノ明朝 Pro W3", serif;
+}
